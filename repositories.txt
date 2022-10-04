@@ -1,5 +1,7 @@
 https://github.com/drmpf/pfodGUIdesigner
+https://github.com/plsTrustMeImAnEngineer/StreamAverage
 https://github.com/trevorwslee/Arduino-DumbDisplay
+https://github.com/dirkhillbrecht/UiUiUi
 https://github.com/1337encrypted/BTS7960_Motordriver
 https://github.com/MrYsLab/Telemetrix4RpiPicoW
 https://github.com/divinofire/DatabaseOnSD
@@ -5224,3 +5226,5 @@ https://github.com/galarb/clicli.git
 https://github.com/natnqweb/EventOS
 https://github.com/joeycastillo/OSO_Arduino_LCD
 https://github.com/eoh-jsc/mvp-lib
+https://github.com/0x6flab/satima-arduinolibrary
+https://github.com/semcneil/ADS7142_Arduino_Library
